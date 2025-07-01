@@ -28,15 +28,15 @@ A strong password should be:
 
 The following passwords were created and evaluated:
 
-##1.TZh{kN@98%RSl7|Hik?/a
+1.TZh{kN@98%RSl7|Hik?/a
 
-##2.Rit_isDead|78R?p]
+2.Rit_isDead|78R?p]
 
-##3.##%28)woYrh:P|870T*tV&Jm86#?{P|Oi5^7
+3.##%28)woYrh:P|870T*tV&Jm86#?{P|Oi5^7
 
-##4.&sw|a*wjHlaks0}
+4.&sw|a*wjHlaks0}
 
-##5.Dharmo_{Rakshita|"Rakshite:108/
+5.Dharmo_{Rakshita|"Rakshite:108/
 
 
 ---
