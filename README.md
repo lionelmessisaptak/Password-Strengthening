@@ -51,7 +51,7 @@ The following passwords were created and evaluated:
 | 4              | Strong              | ~80–85%              | Good use of symbols, slightly shorter      |
 | 5              | Very Strong         | ~90–95%              | Long and complex with mixed characters     |
 
-Screenshots of these evaluations are available in the `/screenshots` directory.
+Screenshots of these evaluations are available in the main directory.
 
 ---
 
